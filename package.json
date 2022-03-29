@@ -1,0 +1,16 @@
+{
+  "name": "twitchbottest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "call-of-duty-api": "^2.0.0-dev",
+    "puppeteer": "^10.1.0",
+    "tmi.js": "^1.8.3"
+  }
+}
